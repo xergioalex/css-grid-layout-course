@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Columnas</title>
+  <title>Rows</title>
   <style>
     body {
       font-family: Arial;
     }
     .container {
       display: grid;
-      grid-template-columns: 25% 200px 25%;
+      /*grid-template-columns: 25% 200px 25%;*/
+      /*grid-template-rows: 300px 300px;*/
+      /*grid-template-columns: repeat(4,200px);*/
+      grid-template: 300px 100px 100px / 50% 200px 100px;
     }
     .item {
       background: lightblue;
