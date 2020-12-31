@@ -33,7 +33,7 @@ Teacher: Leonidas Esteban
 
 ## :electric_plug: Powered by [XergioAleX](https://www.xergioalex.com/)
 
-<img alt="XergioAleX Logo" src="xergioalex.png" width="400">
+<img alt="XergioAleX Logo" src="xergioalex.png" width="300">
 
 ## License
 
