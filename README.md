@@ -30,3 +30,11 @@ Teacher: Leonidas Esteban
 
 * [01. Movies](#)
 * [02. Plati video](#)
+
+## :electric_plug: Powered by [XergioAleX](https://www.xergioalex.com/)
+
+![XergioAleX Logo](xergioalex.png | width=300)
+
+## License
+
+This project is [MIT licensed](./LICENSE).
