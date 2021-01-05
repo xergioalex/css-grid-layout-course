@@ -25,7 +25,7 @@ Demos: https://css-grid-layout-course.xergioalex.com/
 
 * [01. Instagram](https://css-grid-layout-course.xergioalex.com/projects/instagram/index.html)
 * [02. Pinterest](https://css-grid-layout-course.xergioalex.com/projects/pinterest/index.html)
-* [03. Platzi course](https://css-grid-layout-course.xergioalex.com/projects/plazi-course/index.html)
+* [03. Platzi course](https://css-grid-layout-course.xergioalex.com/projects/platzi-course/index.html)
 
 ## Challenges
 
